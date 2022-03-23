@@ -6,8 +6,8 @@ public class Drzewo {
     private int liczbaGalezi;
 
     public Drzewo() {
-        srednicaPnia = 0.0;
-        liczbaGalezi = 0;
+        this.srednicaPnia = 0.0;
+        this.liczbaGalezi = 0;
     }
 
     public Drzewo(double srednicaPnia, int liczbaGalezi) {
